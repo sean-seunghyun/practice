@@ -1,0 +1,27 @@
+#first-name, #last-name, #email{
+    display: block;
+    margin: 5px 2px;
+}
+h2{
+    font-size: 40px;
+}
+
+input[type=submit]{
+    border: transparent;
+    padding: 10px 30px;
+}
+
+input[type=text], input[type=email]{
+    padding: 10px 20px;
+}
+
+form{
+    background-color: #5cd0b9;
+    width: 40%;
+    margin: auto;
+    padding: 20px;
+}
+
+textarea{
+    resize:none;
+}
