@@ -1,0 +1,28 @@
+.container{
+    width: 800px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.left-box{
+    width: 70%;
+    float: left;
+}
+.right-box{
+    width: 30%;
+    min-height: 100%;
+    float: right;
+    display: flex;
+    align-items: center;
+}
+.user-info{
+    display: inline-block;
+    height: 100%;
+}
+.user-image{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.thumbnail-image{
+margin-left: 10px;
+}
