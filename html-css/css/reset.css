@@ -24,7 +24,7 @@ table{
     border-collapse: collapse;
 }
 
-div{
+div, input{
     box-sizing: border-box;
 }
 
