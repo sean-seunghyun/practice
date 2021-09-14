@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db88ea17-f3a3-416a-8d13-d3290ef46297" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/0910.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/0910.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/practice.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/practice.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html-css/0908.html" beforeDir="false" afterPath="$PROJECT_DIR$/0910.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html-css/css/0908.css" beforeDir="false" afterPath="$PROJECT_DIR$/../html-css/css/0908.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../html-css/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0915.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0915/0913.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0915/0913.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0915/0915.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +26,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/0915" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/0915" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -55,6 +54,8 @@
       <workItem from="1631234175923" duration="2181000" />
       <workItem from="1631236816175" duration="324000" />
       <workItem from="1631237163628" duration="47000" />
+      <workItem from="1631497764845" duration="817000" />
+      <workItem from="1631578068841" duration="169000" />
     </task>
     <servers />
   </component>
