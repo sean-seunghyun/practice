@@ -13,17 +13,17 @@ $('.nav-connect-btn').click( () => {
 })
 
 
-$('#modal-btn').click( () => {
+$('#modal-btn').click( (e) => {
+    console.log('modal btn clicked');
     $('.black-background').hide();
 })
 
 $('.black-background').click ( (e) =>{
-    // console.log(e);
+    console.log('background');
 
-    if(e.target === $('this')){
+    if(e.target === e.currentTarget){
         $('.black-background').hide();
     }
-
 })
 
 
