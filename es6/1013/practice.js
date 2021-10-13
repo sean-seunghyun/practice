@@ -68,9 +68,11 @@ const data = {
     },
 
     get getData(){
-        this.odd.sort();
-        this.even.sort();
-        return this;
+        console.log(this.odd);
+        console.log(this.even);
+       return [...this.odd, ...this.even].sort(function (a,b){
+           return a-b;
+       });
     }
 
 }
